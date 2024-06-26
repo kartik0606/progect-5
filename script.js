@@ -131,7 +131,8 @@ function page2Animation() {
     })
 }
 
-function page3VideoAnimation() {
+function page3VideoAnimation() 
+{
     var page3Center = document.querySelector(".page3-center")
     var video = document.querySelector("#page3 video")
 
